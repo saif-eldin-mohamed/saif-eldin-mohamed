@@ -8,8 +8,8 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-saifmohameddev3%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saifmohameddev3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saif--eldeen--mohamed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-eldin-mohamed/)
+[![Email](https://img.shields.io/badge/Email-saifmohameddev3%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=saifmohameddev3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saif--eldin--mohamed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-eldin-mohamed/)
 [![Location](https://img.shields.io/badge/Based_in-Cairo%2C_Egypt-1F6FEB?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -64,21 +64,23 @@ Flutter Developer with **3+ years of experience** architecting and shipping prod
 
 Led end-to-end development as the **sole Flutter developer**. Architected with Clean Architecture + BLoC/Cubit, integrated Seats.io for interactive seat-map selection, multi-gateway payments (Paymob & Amazon Payment Services), native Kotlin/Swift bridges for background tasks, an offline-first data layer with Hive, and a full analytics stack (Microsoft Clarity, Firebase Analytics, Crashlytics).
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Live-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=app.collard.tickets)
+[![Google Play](https://img.shields.io/badge/Google_Play-Live-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=app.collard.tickets&pcampaignid=web_share)
+[![App Store](https://img.shields.io/badge/App_Store-Live-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/eg/app/collard/id6758967322)
 
 <br/>
 
 ## 📱 Other Production Apps
 
-| Project | Domain | Company | Highlights |
-|---|---|---|---|
-| **Taxi Beirut** | Ride-Hailing | Iraq Soft | Real-time ops dashboard — live tracking & dispatch via WebSocket + Google Maps SDK |
-| **Silver** | E-commerce | Iraq Soft | Full shopping flow: auth, cart, checkout, payments, order tracking, offline-first caching |
-| **Al-Fares Delivery** (Driver & Merchant) | Delivery & Logistics | Iraq Soft | Two companion apps powering real-time tracking, dispatching & order management |
-| **Bego World** | E-commerce | Freelance | Catalog, variants, promotions, checkout, real-time engagement workflows |
-| **Misk** | Islamic Lifestyle | Freelance | Quran, Hadith, Azkar, Tasbih & Zakat Calculator — fully offline-first |
-| **POS System** | Retail / POS | El Magd MTS | Sales tracking, receipt generation, ESC/POS & TSPL printing over BT/Wi-Fi/USB |
-| **AI Quiz Generator** | EdTech | Freelance | Parses PDF/DOCX/PPTX into interactive quizzes — Clean Architecture, CI/CD |
+| Project | Highlights | Links |
+|---|---|---|
+| **Taxi Beirut** *(Iraq Soft)* | Real-time ops dashboard — live tracking & dispatch via WebSocket + Google Maps SDK | [Dashboard](https://taxibeirut.appsiraq.com/) |
+| **Silver** *(Iraq Soft)* | Full shopping flow: auth, cart, checkout, payments, order tracking, offline-first caching | [Google Play](https://play.google.com/store/apps/details?id=com.mdsoft.silver&pcampaignid=web_share) · [App Store](https://apps.apple.com/eg/app/%D9%83%D9%88%D8%B2%D9%85%D8%AA%D9%83-%D9%81%D8%B6%D8%A9/id6746095779?l=ar) |
+| **Al-Fares Driver** *(Iraq Soft)* | Real-time tracking, dispatching & order management for delivery drivers | [Google Play](https://play.google.com/store/apps/details?id=com.mdsoft.alfares_driver) · [App Store](https://apps.apple.com/eg/app/alfares-driver/id6739213221?l=ar) |
+| **Al-Fares Merchant** *(Iraq Soft)* | Companion app for merchants — order management & logistics dashboard | [Google Play](https://play.google.com/store/apps/details?id=com.mdsoft.alfares_merchant) · [App Store](https://apps.apple.com/eg/app/alfares-merchant/id6739212804?l=ar) |
+| **Bego World** *(Freelance)* | Catalog, variants, promotions, checkout, real-time engagement workflows | [Google Play](https://play.google.com/store/apps/details?id=com.app.bego) |
+| **Misk** *(Freelance)* | Quran, Hadith, Azkar, Tasbih & Zakat Calculator — fully offline-first | [Amazon](https://www.amazon.com/gp/product/B0DG9S93L5) |
+| **POS System** *(El Magd MTS)* | Sales tracking, receipt generation, ESC/POS & TSPL printing over BT/Wi-Fi/USB | — |
+| **AI Quiz Generator** *(Freelance)* | Parses PDF/DOCX/PPTX into interactive quizzes — Clean Architecture, CI/CD | — |
 
 <br/>
 
@@ -107,8 +109,8 @@ Led end-to-end development as the **sole Flutter developer**. Architected with C
 
 ### Let's build something
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-eldeen-mohamed)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifmohameddev3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-eldin-mohamed/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=saifmohameddev3@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
