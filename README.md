@@ -9,7 +9,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-saifmohameddev3%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saifmohameddev3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saif--eldeen--mohamed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-eldeen-mohamed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saif--eldeen--mohamed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-eldin-mohamed/)
 [![Location](https://img.shields.io/badge/Based_in-Cairo%2C_Egypt-1F6FEB?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
