@@ -25,8 +25,6 @@ For the last three years that has meant Flutter in production: ticketing, e-comm
 
 I care most about three things: **payment flows that don't fail**, **real-time features that stay in sync**, and **apps that keep working offline**.
 
-Outside the day job I'm co-founder of **BitForge**.
-
 <br/>
 
 ## 02 / Selected work
@@ -67,6 +65,12 @@ Sole Flutter developer, end to end. Single and multi-day events, invitations, li
 ## 04 / Timeline
 
 <img src="https://raw.githubusercontent.com/saif-eldin-mohamed/saif-eldin-mohamed/main/timeline.svg" alt="Timeline: El Magd MTS, Freelance, Iraq Soft, Collard" width="100%"/>
+
+<br/>
+
+## 05 / Currently
+
+<img src="https://raw.githubusercontent.com/saif-eldin-mohamed/saif-eldin-mohamed/main/currently.svg" alt="Currently: Collard" width="100%"/>
 
 <br/>
 
