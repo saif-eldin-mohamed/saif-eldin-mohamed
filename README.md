@@ -31,26 +31,27 @@ Outside the day job I co-run **BitForge**, a two-person dev shop, and I'm buildi
 
 ## 02 / Selected work
 
-### Collard &nbsp;·&nbsp; event ticketing & payments
+### Collard &nbsp;·&nbsp; event ticketing & payments &nbsp;<sub>FLAGSHIP</sub>
 
 Sole Flutter developer, end to end. Single and multi-day events, invitations, live seat selection with Seats.io, QR entry scanning, and checkout through two gateways (Paymob with Apple Pay, and Amazon Payment Services). An iOS payment failure was fixed by moving to delegate-driven handling in the native layer. Releases run through GitHub Actions and Fastlane, with Firebase Analytics, Crashlytics and Microsoft Clarity watching stability and usage.
 
 `Clean Architecture` `BLoC / Cubit` `go_router` `Hive` `Seats.io` `Paymob` `Kotlin / Swift channels`
 
-[Google Play](https://play.google.com/store/apps/details?id=app.collard.tickets) &nbsp;/&nbsp; [App Store](https://apps.apple.com/eg/app/collard/id6758967322)
+**[Open on Google Play](https://play.google.com/store/apps/details?id=app.collard.tickets)** &nbsp;&nbsp;/&nbsp;&nbsp; **[Open on App Store](https://apps.apple.com/eg/app/collard/id6758967322)**
 
 <br/>
 
 | | Project | What it does | Store |
 |---|---|---|---|
-| 01 | **Fedda** <br/><sub>e-commerce · 10K+ on Play</sub> | Cosmetics, jewelry and home appliances: auth, cart, checkout, payments, real-time order tracking, offline caching | [Play](https://play.google.com/store/apps/details?id=com.mdsoft.silver) / [iOS](https://apps.apple.com/eg/app/%D9%83%D9%88%D8%B2%D9%85%D8%AA%D9%83-%D9%81%D8%B6%D8%A9/id6746095779?l=ar) |
-| 02 | **Al-Fares Driver** <br/><sub>delivery ops · 1K+ on Play</sub> | Live driver tracking, order dispatch, offline handling when connectivity drops | [Play](https://play.google.com/store/apps/details?id=com.mdsoft.alfares_driver) / [iOS](https://apps.apple.com/eg/app/alfares-driver/id6739213221?l=ar) |
-| 03 | **Al-Fares Merchant** <br/><sub>delivery requests · 1K+ on Play</sub> | Merchants create and track delivery requests and hand them off to drivers | [Play](https://play.google.com/store/apps/details?id=com.mdsoft.alfares_merchant) / [iOS](https://apps.apple.com/eg/app/alfares-merchant/id6739212804?l=ar) |
-| 04 | **Taxi Beirut** <br/><sub>ride-hailing ops dashboard</sub> | Real-time ride tracking, dispatch and fleet management over WebSockets and Google Maps SDK | [Live dashboard](https://taxibeirut.appsiraq.com/web/) |
-| 05 | **BegoHub** <br/><sub>e-commerce · 1K+ on Play</sub> | Catalog, variants, promotions and checkout | [Play](https://play.google.com/store/apps/details?id=com.app.bego) |
-| 06 | **Misk** <br/><sub>islamic companion</sub> | Quran, Hadith, Azkar, Tasbih and Zakat calculator, fully offline | [Amazon](https://www.amazon.com/gp/product/B0DG9S93L5) |
-| 07 | **Q_Prime** <br/><sub>AI quiz generator</sub> | PDF, DOCX and PPTX in, interactive quizzes out. Flutter client by me, backend AI APIs by the team | Demo on LinkedIn |
-| 08 | **POS App** <br/><sub>El Magd MTS</sub> | Sales tracking, ESC/POS and TSPL printing over Bluetooth, Wi-Fi and USB, WhatsApp receipts | Demo on LinkedIn |
+| 01 | **Collard** <br/><sub>event ticketing · 1K+ on Play</sub> | Single and multi-day events, live seat selection (Seats.io), QR tickets, Paymob with Apple Pay, Amazon Payment Services | [Play](https://play.google.com/store/apps/details?id=app.collard.tickets) / [iOS](https://apps.apple.com/eg/app/collard/id6758967322) |
+| 02 | **Fedda** <br/><sub>e-commerce · 10K+ on Play</sub> | Cosmetics, jewelry and home appliances: auth, cart, checkout, payments, real-time order tracking, offline caching | [Play](https://play.google.com/store/apps/details?id=com.mdsoft.silver) / [iOS](https://apps.apple.com/eg/app/%D9%83%D9%88%D8%B2%D9%85%D8%AA%D9%83-%D9%81%D8%B6%D8%A9/id6746095779?l=ar) |
+| 03 | **Al-Fares Driver** <br/><sub>delivery ops · 1K+ on Play</sub> | Live driver tracking, order dispatch, offline handling when connectivity drops | [Play](https://play.google.com/store/apps/details?id=com.mdsoft.alfares_driver) / [iOS](https://apps.apple.com/eg/app/alfares-driver/id6739213221?l=ar) |
+| 04 | **Al-Fares Merchant** <br/><sub>delivery requests · 1K+ on Play</sub> | Merchants create and track delivery requests and hand them off to drivers | [Play](https://play.google.com/store/apps/details?id=com.mdsoft.alfares_merchant) / [iOS](https://apps.apple.com/eg/app/alfares-merchant/id6739212804?l=ar) |
+| 05 | **Taxi Beirut** <br/><sub>ride-hailing ops dashboard</sub> | Real-time ride tracking, dispatch and fleet management over WebSockets and Google Maps SDK | [Live dashboard](https://taxibeirut.appsiraq.com/web/) |
+| 06 | **BegoHub** <br/><sub>e-commerce · 1K+ on Play</sub> | Catalog, variants, promotions and checkout | [Play](https://play.google.com/store/apps/details?id=com.app.bego) / [Demo](https://www.linkedin.com/posts/saif-eldin-mohamed_aeqaezaetaeuaer-aepaesaesaeuaepaezaerabraepaesaenaesaeraesaezaewaeuaeyaer-activity-7250839862499504130-8aqq/) |
+| 07 | **Misk** <br/><sub>islamic companion</sub> | Quran, Hadith, Azkar, Tasbih and Zakat calculator, fully offline | [Amazon](https://www.amazon.com/gp/product/B0DG9S93L5) / [Demo](https://www.linkedin.com/posts/saif-eldin-mohamed_aesaefaeqaeyaeqabraetafeaebaer-aepaesaeqaezaekaeuabraepaesaeraezaeyaet-activity-7238995893348184064-AXwI/) |
+| 08 | **Q_Prime** <br/><sub>AI quiz generator</sub> | PDF, DOCX and PPTX in, interactive quizzes out. Flutter client by me, backend AI APIs by the team | [Demo](https://www.linkedin.com/posts/saif-eldin-mohamed_ai-edtech-learningrevolution-activity-7206283905564327936-Fjo_/) |
+| 09 | **POS App** <br/><sub>El Magd MTS</sub> | Sales tracking, ESC/POS and TSPL printing over Bluetooth, Wi-Fi and USB, WhatsApp receipts | [Demo](https://www.linkedin.com/posts/saif-eldin-mohamed_im-excited-to-share-our-latest-enhancements-activity-7203754357647912960-7AVr/) |
 
 <div align="center"><img src="https://raw.githubusercontent.com/saif-eldin-mohamed/saif-eldin-mohamed/main/divider.svg" width="100%" alt=""/></div>
 
