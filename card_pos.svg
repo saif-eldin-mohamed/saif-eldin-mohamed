@@ -36,7 +36,7 @@
   <text class="serif r2" x="30" y="104" font-size="42" fill="#EDE8DD" letter-spacing="-1">POS App</text>
   <text class="mono r3" x="32" y="132" font-size="13.5" fill="#9AA3B2">Sales tracking and receipt printing</text>
   <text class="mono r3" x="32" y="152" font-size="13.5" fill="#9AA3B2">over Bluetooth, Wi-Fi and USB.</text>
-  <g class="r4" transform="translate(32 170)">
+  <g transform="translate(32 170)"><g class="r4">
     <rect width="536" height="142" rx="16" fill="#fff" fill-opacity=".03" stroke="#fff" stroke-opacity=".09"/>
     <g clip-path="url(#pc)"><rect x="28" y="14" width="208" height="50" rx="14" fill="#fff" fill-opacity=".07" stroke="#fff" stroke-opacity=".14"/>
 <circle class="pl" cx="50" cy="39" r="4.5" fill="#FB923C"/><rect x="66" y="31" width="100" height="6" rx="3" fill="#fff" fill-opacity=".25"/><rect x="66" y="43" width="64" height="5" rx="2.5" fill="#fff" fill-opacity=".12"/>
@@ -52,7 +52,7 @@
 <path d="M416 100L408 112L428 100z" fill="#34D399" fill-opacity=".5"/>
 <text class="mono" x="424" y="72" font-size="10.5" fill="#EDE8DD">Receipt sent</text><text class="mono" x="424" y="88" font-size="9" letter-spacing="1" fill="#34D399">WHATSAPP</text>
 <path d="M494 68l4 4l8-9M504 68l4 4l8-9" fill="none" stroke="#34D399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g>
-  </g>
+  </g></g>
 </g>
 <rect x=".5" y=".5" width="599" height="339" rx="24" fill="none" stroke="#fff" stroke-opacity=".08"/>
 </svg>

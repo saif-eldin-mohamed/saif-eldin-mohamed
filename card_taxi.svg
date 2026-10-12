@@ -36,7 +36,7 @@
   <text class="serif r2" x="30" y="104" font-size="42" fill="#EDE8DD" letter-spacing="-1">Taxi Beirut</text>
   <text class="mono r3" x="32" y="132" font-size="13.5" fill="#9AA3B2">Real-time ride tracking, dispatch</text>
   <text class="mono r3" x="32" y="152" font-size="13.5" fill="#9AA3B2">and fleet management over WebSockets.</text>
-  <g class="r4" transform="translate(32 170)">
+  <g transform="translate(32 170)"><g class="r4">
     <rect width="536" height="142" rx="16" fill="#fff" fill-opacity=".03" stroke="#fff" stroke-opacity=".09"/>
     <g clip-path="url(#pc)"><rect width="536" height="142" fill="url(#mg)"/>
 <g fill="#fff" fill-opacity=".05"><rect y="34" width="536" height="10"/><rect y="92" width="536" height="10"/><rect x="150" width="10" height="142"/><rect x="370" width="10" height="142"/></g>
@@ -45,7 +45,7 @@
 <circle cx="262" cy="68" r="5.5" fill="#FFB547"/>
 <g transform="translate(274 52)"><g><rect x="0.0" y="0" width="88.0" height="26" rx="13" fill="#FFB547" fill-opacity=".10" stroke="#FFB547" stroke-opacity=".55"/><text class="mono" x="14.0" y="17.5" font-size="10" letter-spacing="1.5" fill="#FFB547">NEW RIDE</text></g></g>
 <g transform="translate(12 10)"><g><rect x="0.0" y="0" width="154.0" height="26" rx="13" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".16"/><circle class="pl" cx="14" cy="13" r="3.5" fill="#9AA3B2"/><text class="mono" x="28.0" y="17.5" font-size="10" letter-spacing="1.5" fill="#EDE8DD">4 DRIVERS ONLINE</text></g></g></g>
-  </g>
+  </g></g>
 </g>
 <rect x=".5" y=".5" width="599" height="339" rx="24" fill="none" stroke="#fff" stroke-opacity=".08"/>
 </svg>

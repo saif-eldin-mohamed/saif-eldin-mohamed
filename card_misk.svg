@@ -36,14 +36,14 @@
   <text class="serif r2" x="30" y="104" font-size="42" fill="#EDE8DD" letter-spacing="-1">Misk</text>
   <text class="mono r3" x="32" y="132" font-size="13.5" fill="#9AA3B2">Quran, Hadith, Azkar, Tasbih and Zakat.</text>
   <text class="mono r3" x="32" y="152" font-size="13.5" fill="#9AA3B2">Everything works without internet.</text>
-  <g class="r4" transform="translate(32 170)">
+  <g transform="translate(32 170)"><g class="r4">
     <rect width="536" height="142" rx="16" fill="#fff" fill-opacity=".03" stroke="#fff" stroke-opacity=".09"/>
     <g clip-path="url(#pc)"><g transform="translate(96 71) rotate(-90)"><circle r="46" fill="none" stroke="#fff" stroke-opacity=".1" stroke-width="9"/>
 <circle r="46" fill="none" stroke="#34D399" stroke-width="9" stroke-linecap="round" stroke-dasharray="289" stroke-dashoffset="289" style="animation:prog 6s ease-in-out infinite alternate"/></g>
 <text class="serif" x="96" y="82" font-size="34" text-anchor="middle" fill="#EDE8DD">33</text><text class="mono" x="96" y="98" font-size="8.5" letter-spacing="2" text-anchor="middle" fill="#9AA3B2">TASBIH</text>
 <g transform="translate(470 71)"><g style="animation:spin 40s linear infinite"><rect x="-40" y="-40" width="80" height="80" fill="none" stroke="#34D399" stroke-width="1.5"/><rect x="-40" y="-40" width="80" height="80" fill="none" stroke="#34D399" stroke-width="1.5" transform="rotate(45)"/></g><g style="animation:spinr 28s linear infinite"><rect x="-24" y="-24" width="48" height="48" fill="none" stroke="#8B7CFF" stroke-width="1.5"/><rect x="-24" y="-24" width="48" height="48" fill="none" stroke="#8B7CFF" stroke-width="1.5" transform="rotate(45)"/></g><circle r="6" fill="#34D399"/></g>
 <g transform="translate(168 18)"><g><rect x="0.0" y="0" width="193.0" height="26" rx="13" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".16"/><text class="mono" x="14.0" y="17.5" font-size="10" letter-spacing="1.5" fill="#EDE8DD">QURAN / HADITH / AZKAR</text></g><g><rect x="0.0" y="34" width="131.5" height="26" rx="13" fill="#34D399" fill-opacity=".10" stroke="#34D399" stroke-opacity=".55"/><circle class="pl" cx="14" cy="47" r="3.5" fill="#34D399"/><text class="mono" x="28.0" y="51.5" font-size="10" letter-spacing="1.5" fill="#34D399">OFFLINE FIRST</text></g><g><rect x="0.0" y="68" width="148.0" height="26" rx="13" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".16"/><text class="mono" x="14.0" y="85.5" font-size="10" letter-spacing="1.5" fill="#EDE8DD">ZAKAT CALCULATOR</text></g></g></g>
-  </g>
+  </g></g>
 </g>
 <rect x=".5" y=".5" width="599" height="339" rx="24" fill="none" stroke="#fff" stroke-opacity=".08"/>
 </svg>
