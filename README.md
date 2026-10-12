@@ -31,11 +31,9 @@ Outside the day job I co-run **BitForge**, a two-person dev shop, and I'm buildi
 
 ## 02 / Selected work
 
-### Collard &nbsp;·&nbsp; event ticketing & payments &nbsp;<sub>FLAGSHIP</sub>
+<a href="https://play.google.com/store/apps/details?id=app.collard.tickets"><img src="https://raw.githubusercontent.com/saif-eldin-mohamed/saif-eldin-mohamed/main/collard.svg" alt="Collard, event ticketing and payments" width="100%"/></a>
 
 Sole Flutter developer, end to end. Single and multi-day events, invitations, live seat selection with Seats.io, QR entry scanning, and checkout through two gateways (Paymob with Apple Pay, and Amazon Payment Services). An iOS payment failure was fixed by moving to delegate-driven handling in the native layer. Releases run through GitHub Actions and Fastlane, with Firebase Analytics, Crashlytics and Microsoft Clarity watching stability and usage.
-
-`Clean Architecture` `BLoC / Cubit` `go_router` `Hive` `Seats.io` `Paymob` `Kotlin / Swift channels`
 
 **[Open on Google Play](https://play.google.com/store/apps/details?id=app.collard.tickets)** &nbsp;&nbsp;/&nbsp;&nbsp; **[Open on App Store](https://apps.apple.com/eg/app/collard/id6758967322)**
 
@@ -74,15 +72,7 @@ Sole Flutter developer, end to end. Single and multi-day events, invitations, li
 
 ## 04 / Timeline
 
-| When | Where | What I did |
-|---|---|---|
-| **2025 →** | **Collard**, Cairo | Sole Flutter dev. Architecture, payments, native bridges, CI/CD and releases |
-| **2024 – 2025** | **Iraq Soft**, Dakahlia | 4 products in 9 months for international clients: delivery, tracking, offline-first, printing |
-| **2024** | **Freelance** | 3 apps for 3 clients in 6 months. OAuth/JWT, WebSockets, CI/CD |
-| **2023 – 2024** | **El Magd MTS**, Qalyubia | POS app that took checkout from manual to digital |
-| **2020 – 2024** | **Obour University** | B.Sc. Computer Science |
-
-<br/>
+<img src="https://raw.githubusercontent.com/saif-eldin-mohamed/saif-eldin-mohamed/main/timeline.svg" alt="Timeline: El Magd MTS, Freelance, Iraq Soft, Collard" width="100%"/>
 
 ## 05 / Currently
 
@@ -93,13 +83,7 @@ Sole Flutter developer, end to end. Single and multi-day events, invitations, li
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saif-eldin-mohamed/saif-eldin-mohamed/main/divider.svg" width="100%" alt=""/>
-
-<br/>
-
-**Have something to build?**
-
-<a href="mailto:saifmohameddev3@gmail.com"><code>saifmohameddev3@gmail.com</code></a>
+<a href="mailto:saifmohameddev3@gmail.com"><img src="https://raw.githubusercontent.com/saif-eldin-mohamed/saif-eldin-mohamed/main/contact.svg" alt="Have something to build? saifmohameddev3@gmail.com" width="100%"/></a>
 
 <sub><code>Cairo, Egypt  ·  Saif Eldeen Mohamed  ·  2026</code></sub>
 
