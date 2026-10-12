@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Saif Eldeen Mohamed, Flutter engineer" width="100%"/>
+<img src="https://raw.githubusercontent.com/saif-eldin-mohamed/saif-eldin-mohamed/main/assets/hero.svg" alt="Saif Eldeen Mohamed, Flutter engineer" width="100%"/>
 
 <br/>
 
@@ -11,9 +11,9 @@
 
 <br/><br/>
 
-<img src="assets/stats.svg" alt="3+ years, 6 apps live, 10 store listings, 14K+ downloads" width="100%"/>
+<img src="https://raw.githubusercontent.com/saif-eldin-mohamed/saif-eldin-mohamed/main/assets/stats.svg" alt="3+ years, 6 apps live, 10 store listings, 14K+ downloads" width="100%"/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/saif-eldin-mohamed/saif-eldin-mohamed/main/assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -52,11 +52,11 @@ Sole Flutter developer, end to end. Single and multi-day events, invitations, li
 | 07 | **Q_Prime** <br/><sub>AI quiz generator</sub> | PDF, DOCX and PPTX in, interactive quizzes out. Flutter client by me, backend AI APIs by the team | Demo on LinkedIn |
 | 08 | **POS App** <br/><sub>El Magd MTS</sub> | Sales tracking, ESC/POS and TSPL printing over Bluetooth, Wi-Fi and USB, WhatsApp receipts | Demo on LinkedIn |
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/saif-eldin-mohamed/saif-eldin-mohamed/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## 03 / Toolkit
 
-<div align="center"><img src="assets/marquee.svg" width="100%" alt="Flutter, Dart, BLoC, Kotlin, Swift, Firebase, Paymob, Seats.io, Fastlane, GitHub Actions"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/saif-eldin-mohamed/saif-eldin-mohamed/main/assets/marquee.svg" width="100%" alt="Flutter, Dart, BLoC, Kotlin, Swift, Firebase, Paymob, Seats.io, Fastlane, GitHub Actions"/></div>
 
 <br/>
 
@@ -92,7 +92,7 @@ Sole Flutter developer, end to end. Single and multi-day events, invitations, li
 
 <div align="center">
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/saif-eldin-mohamed/saif-eldin-mohamed/main/assets/divider.svg" width="100%" alt=""/>
 
 <br/>
 
