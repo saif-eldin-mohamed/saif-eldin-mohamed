@@ -1,25 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="Currently: Collard, Alter, BitForge">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="Currently: Collard">
 <defs><filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="30"/></filter></defs>
 <style>
   .mono{font-family:'SF Mono',ui-monospace,Menlo,Consolas,'Courier New',monospace}
   .serif{font-family:Georgia,'Times New Roman',serif}
   @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
   @keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
-  @keyframes spin{to{transform:rotate(360deg)}}
-  @keyframes sh{0%,100%{transform:translateX(0)}50%{transform:translateX(12px)}}
-  @keyframes spark{0%,100%{opacity:0;transform:translateY(0)}40%{opacity:1}100%{opacity:0;transform:translateY(-16px)}}
   .t{animation:rise .7s both ease-out}
   .dot{animation:pulse 2s infinite}
-</style><g class="t" style="animation-delay:0.0s"><rect x="12" y="12" width="384" height="166" rx="22" fill="#0A0C10" stroke="#fff" stroke-opacity=".09"/>
-<circle cx="336" cy="90" r="60" fill="#F5A524" fill-opacity=".22" filter="url(#b)"/>
+</style><g class="t" style="animation-delay:0.0s"><rect x="12" y="12" width="1176" height="166" rx="22" fill="#0A0C10" stroke="#fff" stroke-opacity=".09"/>
+<circle cx="1000" cy="95" r="90" fill="#F5A524" fill-opacity=".22" filter="url(#b)"/>
 <circle class="dot" cx="40" cy="44" r="4" fill="#F5A524"/><text class="mono" x="54" y="48" font-size="11.5" letter-spacing="3.5" fill="#F5A524">SHIPPING</text>
 <text class="serif" x="38" y="106" font-size="44" fill="#EDE8DD" letter-spacing="-1">Collard</text>
-<text class="mono" x="40" y="140" font-size="12" fill="#9AA3B2">Growing the ticketing platform</text></g><g class="t" style="animation-delay:0.15s"><rect x="408" y="12" width="384" height="166" rx="22" fill="#0A0C10" stroke="#fff" stroke-opacity=".09"/>
-<circle cx="732" cy="90" r="60" fill="#8B7CFF" fill-opacity=".22" filter="url(#b)"/>
-<circle class="dot" cx="436" cy="44" r="4" fill="#8B7CFF"/><text class="mono" x="450" y="48" font-size="11.5" letter-spacing="3.5" fill="#8B7CFF">BUILDING</text>
-<text class="serif" x="434" y="106" font-size="44" fill="#EDE8DD" letter-spacing="-1">Alter</text>
-<text class="mono" x="436" y="140" font-size="12" fill="#9AA3B2">Daily persona app with real-world missions</text></g><g class="t" style="animation-delay:0.3s"><rect x="804" y="12" width="384" height="166" rx="22" fill="#0A0C10" stroke="#fff" stroke-opacity=".09"/>
-<circle cx="1128" cy="90" r="60" fill="#7CF2C9" fill-opacity=".22" filter="url(#b)"/>
-<circle class="dot" cx="832" cy="44" r="4" fill="#7CF2C9"/><text class="mono" x="846" y="48" font-size="11.5" letter-spacing="3.5" fill="#7CF2C9">RUNNING</text>
-<text class="serif" x="830" y="106" font-size="44" fill="#EDE8DD" letter-spacing="-1">BitForge</text>
-<text class="mono" x="832" y="140" font-size="12" fill="#9AA3B2">Two-person dev shop with my co-founder</text></g><g transform="translate(300 78) rotate(-8)"><rect x="-34" y="-22" width="68" height="44" rx="8" fill="#F5A524" fill-opacity=".85"/><path d="M8 -22V22" stroke="#0A0C10" stroke-opacity=".4" stroke-dasharray="3 4"/><circle cx="8" cy="-22" r="6" fill="#0A0C10"/><circle cx="8" cy="22" r="6" fill="#0A0C10"/><rect x="-24" y="-8" width="24" height="5" rx="2.5" fill="#0A0C10" fill-opacity=".6"/><rect x="-24" y="2" width="16" height="5" rx="2.5" fill="#0A0C10" fill-opacity=".4"/></g><g transform="translate(690 78)"><circle cx="-12" r="22" fill="none" stroke="#8B7CFF" stroke-width="2.5"/><g style="animation:sh 3s ease-in-out infinite"><circle cx="12" r="22" fill="#8B7CFF" fill-opacity=".25" stroke="#8B7CFF" stroke-width="2.5"/></g></g><g transform="translate(1088 80)"><polygon points="0,-30 26,-15 26,15 0,30 -26,15 -26,-15" fill="none" stroke="#7CF2C9" stroke-width="2.5"/><polygon points="0,-14 12,-7 12,7 0,14 -12,7 -12,-7" fill="#7CF2C9" fill-opacity=".8"/><circle cx="-8" cy="-34" r="2.5" fill="#7CF2C9" style="animation:spark 2.4s infinite"/><circle cx="6" cy="-34" r="2" fill="#7CF2C9" style="animation:spark 2.4s .8s infinite"/><circle cx="16" cy="-32" r="2.5" fill="#7CF2C9" style="animation:spark 2.4s 1.6s infinite"/></g></svg>
+<text class="mono" x="40" y="140" font-size="12" fill="#9AA3B2">Growing the ticketing platform</text></g><g transform="translate(1000 90) rotate(-8)"><rect x="-34" y="-22" width="68" height="44" rx="8" fill="#F5A524" fill-opacity=".85"/><path d="M8 -22V22" stroke="#0A0C10" stroke-opacity=".4" stroke-dasharray="3 4"/><circle cx="8" cy="-22" r="6" fill="#0A0C10"/><circle cx="8" cy="22" r="6" fill="#0A0C10"/><rect x="-24" y="-8" width="24" height="5" rx="2.5" fill="#0A0C10" fill-opacity=".6"/><rect x="-24" y="2" width="16" height="5" rx="2.5" fill="#0A0C10" fill-opacity=".4"/></g></svg>
